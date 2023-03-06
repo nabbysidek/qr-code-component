@@ -38,9 +38,6 @@ Use this section to recap over some of your major learnings while working throug
 
 - I was introduced to a way to center component without it being cut off on smaller screenshot
 
-
-To see how you can add code snippets, see below:
-
 ```css
 body {
     min-height: 100vh;
