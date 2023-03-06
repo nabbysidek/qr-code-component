@@ -49,7 +49,7 @@ body {
 
 ### Continued development
 
-- I intend to focus on Semantic HTML5 Markup
+- I intend to focus more on Semantic HTML5 Markup
 - I also intend to reduce the usage of divs
 
 ## Author

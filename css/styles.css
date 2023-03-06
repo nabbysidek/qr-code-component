@@ -29,6 +29,10 @@ header {
   margin: 0 auto;
 }
 
+h1 {
+  font-size: 20px;
+}
+
 .qr-code {
   display: grid;
   place-content: center;
