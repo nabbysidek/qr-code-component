@@ -45,7 +45,12 @@ body {
 ```
 
 - The alt attribute should explain its purpose
-- Semantic HTML5 Markup practices such as using <main>, <header>, and <footer>
+- Semantic HTML5 Markup practices such as using <main> and <footer>
+
+### Continued development
+
+- I intend to focus on Semantic HTML5 Markup
+- I also intend to reduce the usage of divs
 
 ## Author
 
