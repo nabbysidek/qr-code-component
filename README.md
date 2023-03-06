@@ -44,6 +44,9 @@ body {
 }
 ```
 
+- The alt attribute should explain its purpose
+- Semantic HTML5 Markup practices such as using <main>, <header>, and <footer>
+
 ## Author
 
 - GitHub - [Nur Aina Balqis Binti Mohamad Rosidek](https://github.com/nabbysidek)

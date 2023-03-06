@@ -17,11 +17,16 @@ body {
   place-content: center;
 }
 
-.container {
+main {
   width: 280px;
   border-radius: 10px;
   background-color: var(--white);
   box-shadow: 0px 2px 8px var(--grayish-blue);
+}
+
+header {
+  width: 245px;
+  margin: 0 auto;
 }
 
 .qr-code {
@@ -38,7 +43,7 @@ body {
 
 .content-text {
   width: 245px;
-  margin: 0 auto 25px;
+  margin: 0 auto;
 }
 
 .content-text p {
